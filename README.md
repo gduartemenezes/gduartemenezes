@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm a Full Stack Developer
 
-I am a **Software Engineer** with over **3 years of experience** focused on developing scalable solutions. I have worked on both ongoing projects and products started from scratch. Effective communication is key for me, and I always strive to ask questions that improve the final product.
+I am a **Software Engineer** with over **4 years of experience** focused on developing scalable solutions. I have worked on both ongoing projects and products started from scratch. Effective communication is key for me, and I always strive to ask questions that improve the final product.
 
 ## 🌟 My Skills
 - **Full Stack Development**: Proficient in the **MERN** stack (MongoDB, Express.js, React, Node.js) and experienced with **Vue.js** and **Magento (PHP)**.
@@ -43,7 +43,7 @@ I am a **Software Engineer** with over **3 years of experience** focused on deve
 I pride myself on being a flexible developer who adapts to the needs of the team and product, always valuing a friendly work environment. I believe in continuous learning and improvement, both personally and professionally.
 
 ## 📫 Let's Connect
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my projects below!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gduartemenezes) or check out my projects below!
 
 
 ## 🔧 Technologies & Tools
