@@ -45,8 +45,14 @@ I pride myself on being a flexible developer who adapts to the needs of the team
 ## 📫 Let's Connect
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my projects below!
 
+
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript, TypeScript, C#, Python
-- **Frameworks**: React, Vue.js, Node.js, Express.js, NestJS
-- **Databases**: PostgreSQL, MySQL
-- **Others**: Docker, Kubernetes, AWS, Agile Methodologies, Scrum
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/) 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) 
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
+
